@@ -1,12 +1,12 @@
-#Alexandra Samoilova
+# Alexandra Samoilova
 ------
 
 
-##Junior/Trainee Frontend Developer
+## Junior/Trainee Frontend Developer
 ======
 
 
-###Contact information
+### Contact information
 
 
 + **Location:** Minsk, Belarus
@@ -17,14 +17,14 @@
 ------
 
 
-###About me
+### About me
 
 
-I am 30 years old and by education I am a mechanical engineer in the railway industry. Through trial and error, I realized that I don’t want to work in education, since there is nowhere to develop in my field. I have a technical mind, but I'm also quite a creative person. Therefore, I chose the path of studying Front-end.
+*I am 30 years old and by education I am a mechanical engineer in the railway industry. Through trial and error, I realized that I don’t want to work in education, since there is nowhere to develop in my field. I have a technical mind, but I'm also quite a creative person. Therefore, I chose the path of studying Front-end.*
 ------
 
 
-###Skills
+### Skills
 
 
 + HTML
@@ -35,7 +35,7 @@ I am 30 years old and by education I am a mechanical engineer in the railway ind
 ------
 
 
-###Code Example
+### Code Example
 
 
 ```
@@ -51,7 +51,7 @@ function squareOrSquareRoot(array) {
 ------
 
 
-###Experience
+### Experience
 
 
 + **OAO "MoAZ" (MoAZ, JSC)**, supervisor
@@ -61,7 +61,7 @@ function squareOrSquareRoot(array) {
 ------
 
 
-###Education
+### Education
 
 
 + **Belarusian State University of Transport**
@@ -74,7 +74,7 @@ function squareOrSquareRoot(array) {
 ------
 
 
-###Languages
+### Languages
 
 
 + **Russian** - native
