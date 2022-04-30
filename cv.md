@@ -34,3 +34,28 @@ I am 30 years old and by education I am a mechanical engineer in the railway ind
 + Git
 ------
 
+
+###Code Example
+
+
+```
+function squareOrSquareRoot(array) {
+    return array.map((item => {
+      let rootItem = Math.sqrt(item);
+      if (Number.isInteger(rootItem)){
+        return rootItem;
+      } else return item**2;
+    }));
+}
+```
+------
+
+
+###Experience
+
+
++ **OAO "MoAZ" (MoAZ, JSC)**, supervisor
++ **OAO "MoAZ" (MoAZ, JSC)**, process engineer
++ **ZAO "Dobronom" (Dobronom, CJSC)**, clerk
++ **ZAO "Dobronom" (Dobronom, CJSC)**, engineer estimator
+------
