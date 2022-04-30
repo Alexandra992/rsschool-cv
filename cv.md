@@ -1,9 +1,9 @@
 # Alexandra Samoilova
-------
+
 
 
 ## Junior/Trainee Frontend Developer
-======
+
 
 
 ### Contact information
@@ -14,6 +14,8 @@
 + **E-mail:** shapitunova@mail.ru
 + **Telegram:** @sanyaizolenta
 + **GitHub:** [Alexandra Samoilova](https://github.com/Alexandra992)
+
+
 ------
 
 
@@ -21,6 +23,8 @@
 
 
 *I am 30 years old and by education I am a mechanical engineer in the railway industry. Through trial and error, I realized that I don’t want to work in education, since there is nowhere to develop in my field. I have a technical mind, but I'm also quite a creative person. Therefore, I chose the path of studying Front-end.*
+
+
 ------
 
 
@@ -32,6 +36,8 @@
 + Gulp
 + Javascript
 + Git
+
+
 ------
 
 
@@ -48,6 +54,8 @@ function squareOrSquareRoot(array) {
     }));
 }
 ```
+
+
 ------
 
 
@@ -58,6 +66,8 @@ function squareOrSquareRoot(array) {
 + **OAO "MoAZ" (MoAZ, JSC)**, process engineer
 + **ZAO "Dobronom" (Dobronom, CJSC)**, clerk
 + **ZAO "Dobronom" (Dobronom, CJSC)**, engineer estimator
+
+
 ------
 
 
@@ -71,6 +81,8 @@ function squareOrSquareRoot(array) {
     * Javascript
 + [ItGid](https://itgid.info/course/javascript-2)
     * Javascript 2.0
+
+
 ------
 
 
